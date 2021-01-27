@@ -16,7 +16,7 @@ public class EjeGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola Maria");
+        System.out.println("Hola Profe");
     }
     
 }
